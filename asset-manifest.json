@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/liveinlive/static/js/main.cdb3deab.js",
+    "main.js": "/liveinlive/static/js/main.f200f3d1.js",
     "index.html": "/liveinlive/index.html",
-    "main.cdb3deab.js.map": "/liveinlive/static/js/main.cdb3deab.js.map"
+    "main.f200f3d1.js.map": "/liveinlive/static/js/main.f200f3d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.cdb3deab.js"
+    "static/js/main.f200f3d1.js"
   ]
 }
