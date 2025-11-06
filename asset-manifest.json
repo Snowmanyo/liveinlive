@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/liveinlive/static/js/main.42e027d8.js",
+    "main.js": "/liveinlive/static/js/main.794f78c3.js",
     "index.html": "/liveinlive/index.html",
-    "main.42e027d8.js.map": "/liveinlive/static/js/main.42e027d8.js.map"
+    "main.794f78c3.js.map": "/liveinlive/static/js/main.794f78c3.js.map"
   },
   "entrypoints": [
-    "static/js/main.42e027d8.js"
+    "static/js/main.794f78c3.js"
   ]
 }
